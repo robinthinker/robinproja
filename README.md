@@ -1,1 +1,2 @@
 # robinproja
+Note: loopback/strongloop
